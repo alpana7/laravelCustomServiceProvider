@@ -9,6 +9,6 @@ class ServiceController extends Controller
 {
     public function __invoke(Logger $logger)
     {
-        $logger->log("This is a Custom Log message");
+        $logger->log("This is a Custom Log messagexcvxv");
     }
 }
